@@ -8,7 +8,7 @@ Outputs the highest priority task first when processing.
 
 This Python project uses yfinance and scikit-learn to predict the future prices of stocks based on historical data. It uses Linear Regression to make predictions, and you can visualize the predictions on a graph.
 
-Features:
+**Features:**
 
 - Fetches historical stock price data using the yfinance library.
 - Uses Linear Regression to predict future stock prices based on historical data.
